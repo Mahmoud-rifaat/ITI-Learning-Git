@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+}
+
+ul {
+  display: inline;
+  position: relative;
+}
+
+p {
+  color: white;
+}
