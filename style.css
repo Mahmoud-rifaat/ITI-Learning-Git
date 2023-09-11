@@ -6,3 +6,7 @@ ul {
   display: inline;
   position: relative;
 }
+
+p {
+  color: white;
+}
